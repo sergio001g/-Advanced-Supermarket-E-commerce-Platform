@@ -2,7 +2,6 @@
 a
 a
 a
-a
 
 A modern, feature-rich e-commerce platform built with React, TypeScript, and Supabase, designed specifically for supermarket and grocery store operations.
 
